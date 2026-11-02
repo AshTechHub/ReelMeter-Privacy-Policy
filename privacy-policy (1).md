@@ -1,10 +1,10 @@
 # ReelMeter Privacy Policy
 
-Last updated: [DATE]
+Last updated: [02/11/2026]
 
-ReelMeter ("the app") is an Android app published by [DEVELOPER NAME] ("we", "us"). It counts the Instagram Reels you scroll through each day and shows you the number. This policy explains what the app does with information. In short: everything stays on your phone, and nothing is sent to us or to anyone else.
+ReelMeter ("the app") is an Android app published by [AshMade] ("we", "us"). It counts the Instagram Reels you scroll through each day and shows you the number. This policy explains what the app does with information. In short: everything stays on your phone, and nothing is sent to us or to anyone else.
 
-Contact: [CONTACT EMAIL]
+Contact: [appsbyashtech@gmail.com]
 
 ## The short version
 
@@ -70,4 +70,4 @@ If we change this policy, we will update the date above. If a change affects how
 
 ## Contact
 
-Questions about this policy: [CONTACT EMAIL]
+Questions about this policy: [appsbyashtech@gmail.com]
