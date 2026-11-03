@@ -1,6 +1,6 @@
 # ReelMeter Privacy Policy
 
-Last updated: 3 November 2026
+Last updated: 4 November 2026
 
 ReelMeter ("the app") is an Android app published by AshMade ("I", "me"). It counts the Instagram Reels you scroll through each day and shows you the number, together with the time you spend on Reels. This policy explains what the app does with information.
 
@@ -54,7 +54,7 @@ Using your own mascot picture is an optional one-time purchase made through Goog
 
 ## Information we receive
 
-We receive nothing automatically. The only exception is the optional "Email report" button in the Help tab. If you tap it, the app opens your own email app with a report already written. The report contains your phone's manufacturer and model, your Android version, your Instagram version (the app checks whether Instagram is installed, and which version, only for this report), whether the service is on, the timing information described above, and the technical names of Instagram screen elements. It does not include your reel counts or any personal content, and nothing is sent unless you press Send in your email app. You can read and edit the report first.
+We receive nothing automatically. The only exception is the optional "Email report" button in the Help tab. If you tap it, the app opens your own email app with a report already written. The report contains your phone's manufacturer and model, your Android version (API level), your Instagram version (the app checks whether Instagram is installed, and which version, only for this report), whether the service is on, the timing information described above, and the technical names of Instagram screen elements. It does not include your reel counts or any personal content, and nothing is sent unless you press Send in your email app. You can read and edit the report first.
 
 If you send it, we receive the report and your email address, plus anything else you write. We use them only to look into counting problems and to reply to you, and we delete them when they are no longer needed or when you ask us to.
 
@@ -72,7 +72,7 @@ ReelMeter is excluded from Android's backup. If you reinstall the app or set up 
 - Tap "Reset all counts" in the Help tab to erase your saved counts and time-spent history.
 - Tap "Use default" in the Premium tab to remove your custom mascot picture.
 - Uninstall the app to remove all of its data from your phone.
-- Because we hold no personal data from the app itself, there is nothing for us to export or delete from it. If you have emailed us a report and want it deleted, write to appsbyashtech@gmail.com.
+- Because we hold no personal data from the app itself, there is nothing for us to export or delete from it. If you have emailed us and want a copy of what you sent, or want it deleted, write to appsbyashtech@gmail.com. We will reply within 30 days. Depending on where you live, you may also have legal rights over your personal information, and we will honor them for any information we hold.
 - Your purchase record is held by Google Play. You can manage it through your Google account.
 
 ## Security
@@ -81,7 +81,7 @@ Your data is stored in the app's private storage, which other apps cannot read o
 
 ## Children
 
-ReelMeter is not directed at children under 13, and we do not knowingly collect information from anyone.
+ReelMeter is not directed at children under 13, or under the minimum age required in your country, and we do not knowingly collect information from anyone.
 
 ## Instagram
 
