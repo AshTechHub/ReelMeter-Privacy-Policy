@@ -2,7 +2,7 @@
 
 Last updated: 3 November 2026
 
-ReelMeter ("the app") is an Android app published by Ash Tech Hub ("we", "us"). It counts the Instagram Reels you scroll through each day and shows you the number, together with the time you spend on Reels. This policy explains what the app does with information.
+ReelMeter ("the app") is an Android app published by AshMade ("we", "us"). It counts the Instagram Reels you scroll through each day and shows you the number, together with the time you spend on Reels. This policy explains what the app does with information.
 
 Contact: appsbyashtech@gmail.com
 
