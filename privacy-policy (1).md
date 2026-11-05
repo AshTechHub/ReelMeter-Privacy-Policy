@@ -1,8 +1,8 @@
-# ReelMeter Privacy Policy
+# ReelClock Privacy Policy
 
-Last updated: 5 November 2026
+Last updated: 6 November 2026
 
-ReelMeter ("the app") is an Android app published by AshMade ("I", "me"). It counts the Instagram Reels you scroll through each day and shows you the number, together with the time you spend on Reels. This policy explains what the app does with information.
+ReelClock ("the app") is an Android app published by AshMade ("I", "me"). It counts the Instagram Reels you scroll through each day and shows you the number, together with the time you spend on Reels. This policy explains what the app does with information.
 
 Contact: appsbyashtech@gmail.com
 
@@ -17,7 +17,7 @@ Contact: appsbyashtech@gmail.com
 
 ## How the app uses Android's Accessibility service
 
-ReelMeter uses Android's Accessibility service for one purpose only: to notice when you swipe to the next reel in Instagram, so it can count it, measure how long the Reels screen is open, and show the floating counter. It is not used for anything else, and the app never performs actions on your behalf.
+ReelClock uses Android's Accessibility service for one purpose only: to notice when you swipe to the next reel in Instagram, so it can count it, measure how long the Reels screen is open, and show the floating counter. It is not used for anything else, and the app never performs actions on your behalf.
 
 While Instagram is open, Android tells the app:
 
@@ -25,7 +25,7 @@ While Instagram is open, Android tells the app:
 - the technical names and positions of the on-screen elements that are visible, and
 - when the Reels feed scrolls.
 
-The app does not read the text on your screen. It does not read your messages, comments, posts, usernames or passwords, and it does not take screenshots or record your screen. Android's Accessibility permission is broad and would technically allow an app to do those things, but ReelMeter does not use it that way. Android also reports when you open other apps. The app ignores those events, except to hide the floating counter when you leave Instagram.
+The app does not read the text on your screen. It does not read your messages, comments, posts, usernames or passwords, and it does not take screenshots or record your screen. Android's Accessibility permission is broad and would technically allow an app to do those things, but ReelClock does not use it that way. Android also reports when you open other apps. The app ignores those events, except to hide the floating counter when you leave Instagram.
 
 The Accessibility service is off until you switch it on yourself in Android settings. Before that, the app shows a notice that explains the points above, and you must tap "Agree and continue". If you tap "Deny", nothing is turned on. You can switch the service off at any time in Android's Accessibility settings. If you do, the app asks for your agreement again the next time you enable the counter.
 
@@ -55,7 +55,7 @@ Using your own mascot picture is an optional one-time purchase made through Goog
 
 ## Information we receive
 
-We receive nothing automatically. The only exception is the optional "Email report" button in the Help tab. If you tap it, the app opens your own email app with a report already written. The report starts with a space where you can describe the problem, then an automatic part containing your phone’s manufacturer and model, your Android version (API level), the ReelMeter version, your Instagram version (the app checks whether Instagram is installed, and which version, only for this report), whether the service is on, the timing information described above, and the technical names of Instagram screen elements. The automatic part does not include your reel counts. What you type in the description is up to you, so please do not include personal information. Nothing is sent unless you press Send in your email app. You can read and edit the whole report first.
+We receive nothing automatically. The only exception is the optional "Email report" button in the Help tab. If you tap it, the app opens your own email app with a report already written. The report starts with a space where you can describe the problem, then an automatic part containing your phone’s manufacturer and model, your Android version (API level), the ReelClock version, your Instagram version (the app checks whether Instagram is installed, and which version, only for this report), whether the service is on, the timing information described above, and the technical names of Instagram screen elements. The automatic part does not include your reel counts. What you type in the description is up to you, so please do not include personal information. Nothing is sent unless you press Send in your email app. You can read and edit the whole report first.
 
 If you send it, we receive the report and your email address, plus anything else you write. We use them only to look into counting problems and to reply to you, and we keep them for up to 12 months, or delete them sooner on request.
 
@@ -65,7 +65,7 @@ We do not sell or share your information. The app contains no advertising or ana
 
 ## Backup and reinstalling
 
-ReelMeter is excluded from Android's backup. If you reinstall the app or set up a new phone, your counts, settings and mascot picture will not be restored, and the Accessibility notice will be shown again. If you bought the mascot unlock, it comes back automatically when the app checks with Google Play, or when you tap "Restore purchase" in the Premium tab.
+ReelClock is excluded from Android's backup. If you reinstall the app or set up a new phone, your counts, settings and mascot picture will not be restored, and the Accessibility notice will be shown again. If you bought the mascot unlock, it comes back automatically when the app checks with Google Play, or when you tap "Restore purchase" in the Premium tab.
 
 ## Your choices and deleting your data
 
@@ -82,11 +82,11 @@ Your data is stored in the app's private storage, which other apps cannot read o
 
 ## Children
 
-ReelMeter is not directed at children under 13, or under the minimum age required in your country, and we do not knowingly collect information from anyone.
+ReelClock is not directed at children under 13, or under the minimum age required in your country, and we do not knowingly collect information from anyone.
 
 ## Instagram
 
-ReelMeter is an independent app. It is not made by, affiliated with or endorsed by Instagram or Meta. Instagram is a trademark of its owner.
+ReelClock is an independent app. It is not made by, affiliated with or endorsed by Instagram or Meta. Instagram is a trademark of its owner.
 
 ## Changes to this policy
 
