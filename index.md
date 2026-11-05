@@ -11,7 +11,7 @@ Contact: appsbyashtech@gmail.com
 - Your reel counts, time spent, settings and mascot picture stay on your phone. We run no servers for the app and cannot see any of it.
 - There are no accounts, no ads, no analytics, no tracking and no third-party services, apart from Google Play's own billing library, which handles the optional one-time purchase.
 - The app does not send your information to us or to anyone else.
-- The only time the app contacts the internet is through Google Play's billing library for the optional purchase. It talks to Google Play, not to us. This is why the app lists the internet permission.
+- The only time the app contacts the internet is through Google Play's billing library for the optional purchase. It talks to Google Play, not to us. This is why the app lists the internet and network-status permissions.
 - The app is excluded from Android's backup.
 - You can erase your counts inside the app at any time, or remove everything by uninstalling.
 
@@ -36,11 +36,11 @@ The app stores the following on your phone, in its private storage. We cannot se
 - **Days the counter was running**: a list of dates (no times), used to work out your streaks of days with few reels.
 - **Your daily reel counts**: a date and a number.
 - **Time spent on Reels**: how long the Reels screen was open each day. If you stop swiping for more than three minutes, the extra time is not counted.
-- **Troubleshooting information**: a few timestamps (such as when the service started, when Instagram was last seen, when the Reels screen was last recognised and when the last reel was counted). If the app cannot recognise the Reels screen, it may also keep a short list of the technical names of reel-related screen elements it noticed. This powers the "Not counting?" help in the Help tab.
+- **Troubleshooting information**: a few timestamps (such as when the service started, when Instagram was last seen, when the Reels screen was last recognised and when the last reel was counted). If the app cannot recognise the Reels screen, it may also keep a short list of the technical names of reel-related screen elements it noticed. This powers the Status and "Reel Counter Disappeared?" help in the Help tab.
 - **Settings and small bits of state**: for example whether milestone messages are on, and the date, count and wording of the last milestone message shown (so the same one is not repeated straight away).
 - **Your agreement** to the Accessibility notice.
 - **Whether the mascot unlock is active**: a simple yes or no, so the app does not have to wait for the store each time.
-- **A custom mascot picture, if you choose one**: the picture is copied into the app's private storage, made smaller, and any editing (such as removing the background) happens on your phone. The app can only read the single picture you pick in Android's photo picker, and the picture never leaves your phone.
+- **A custom mascot picture, if you choose one**: the picture is copied into the app's private storage, made smaller, and any editing (such as removing the background) happens on your phone. The app can only read the single picture or file you pick in Android's photo picker, and the picture never leaves your phone.
 
 The messages the app shows (milestone banners on the floating counter, the short line under your time spent, and the streak messages on the Stats page) are chosen from text built into the app, based only on your counts, time and streaks. No information about you leaves your phone to produce them.
 
@@ -55,9 +55,9 @@ Using your own mascot picture is an optional one-time purchase made through Goog
 
 ## Information we receive
 
-We receive nothing automatically. The only exception is the optional "Email report" button in the Help tab. If you tap it, the app opens your own email app with a report already written. The report contains your phone's manufacturer and model, your Android version (API level), your Instagram version (the app checks whether Instagram is installed, and which version, only for this report), whether the service is on, the timing information described above, and the technical names of Instagram screen elements. It does not include your reel counts or any personal content, and nothing is sent unless you press Send in your email app. You can read and edit the report first.
+We receive nothing automatically. The only exception is the optional "Email report" button in the Help tab. If you tap it, the app opens your own email app with a report already written. The report starts with a space where you can describe the problem, then an automatic part containing your phone’s manufacturer and model, your Android version (API level), the ReelMeter version, your Instagram version (the app checks whether Instagram is installed, and which version, only for this report), whether the service is on, the timing information described above, and the technical names of Instagram screen elements. The automatic part does not include your reel counts. What you type in the description is up to you, so please do not include personal information. Nothing is sent unless you press Send in your email app. You can read and edit the whole report first.
 
-If you send it, we receive the report and your email address, plus anything else you write. We use them only to look into counting problems and to reply to you, and we delete them when they are no longer needed or when you ask us to.
+If you send it, we receive the report and your email address, plus anything else you write. We use them only to look into counting problems and to reply to you, and we keep them for up to 12 months, or delete them sooner on request.
 
 ## Sharing
 
