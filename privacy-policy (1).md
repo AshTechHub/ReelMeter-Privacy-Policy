@@ -1,6 +1,6 @@
 # ReelMeter Privacy Policy
 
-Last updated: 4 November 2026
+Last updated: 5 November 2026
 
 ReelMeter ("the app") is an Android app published by AshMade ("I", "me"). It counts the Instagram Reels you scroll through each day and shows you the number, together with the time you spend on Reels. This policy explains what the app does with information.
 
@@ -33,6 +33,7 @@ The Accessibility service is off until you switch it on yourself in Android sett
 
 The app stores the following on your phone, in its private storage. We cannot see it.
 
+- **Days the counter was running**: a list of dates (no times), used to work out your streaks of days with few reels.
 - **Your daily reel counts**: a date and a number.
 - **Time spent on Reels**: how long the Reels screen was open each day. If you stop swiping for more than three minutes, the extra time is not counted.
 - **Troubleshooting information**: a few timestamps (such as when the service started, when Instagram was last seen, when the Reels screen was last recognised and when the last reel was counted). If the app cannot recognise the Reels screen, it may also keep a short list of the technical names of reel-related screen elements it noticed. This powers the "Not counting?" help in the Help tab.
@@ -41,7 +42,7 @@ The app stores the following on your phone, in its private storage. We cannot se
 - **Whether the mascot unlock is active**: a simple yes or no, so the app does not have to wait for the store each time.
 - **A custom mascot picture, if you choose one**: the picture is copied into the app's private storage, made smaller, and any editing (such as removing the background) happens on your phone. The app can only read the single picture you pick in Android's photo picker, and the picture never leaves your phone.
 
-The messages the app shows (milestone banners on the floating counter and the short line under your time spent) are chosen from text built into the app, based only on your counts and time. No information about you leaves your phone to produce them.
+The messages the app shows (milestone banners on the floating counter, the short line under your time spent, and the streak messages on the Stats page) are chosen from text built into the app, based only on your counts, time and streaks. No information about you leaves your phone to produce them.
 
 ## The optional mascot purchase (Google Play)
 
@@ -69,7 +70,7 @@ ReelMeter is excluded from Android's backup. If you reinstall the app or set up 
 ## Your choices and deleting your data
 
 - Switch the Accessibility service off at any time in Android's Accessibility settings.
-- Tap "Reset all counts" in the Help tab to erase your saved counts and time-spent history.
+- Tap "Reset all counts" in the Help tab to erase your saved counts, time-spent and streak history.
 - Tap "Use default" in the Premium tab to remove your custom mascot picture.
 - Uninstall the app to remove all of its data from your phone.
 - Because we hold no personal data from the app itself, there is nothing for us to export or delete from it. If you have emailed us and want a copy of what you sent, or want it deleted, write to appsbyashtech@gmail.com. We will reply within 30 days. Depending on where you live, you may also have legal rights over your personal information, and we will honor them for any information we hold.
