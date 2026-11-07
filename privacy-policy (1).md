@@ -1,6 +1,6 @@
 # ScrollClock Privacy Policy
 
-Last updated: 6 November 2026
+Last updated: 7 November 2026
 
 ScrollClock ("the app") is an Android app published by AshMade ("I", "me"). It counts the Instagram Reels you scroll through each day and shows you the number, together with the time you spend on Reels. This policy explains what the app does with information.
 
@@ -11,7 +11,8 @@ Contact: appsbyashtech@gmail.com
 - Your reel counts, time spent, settings and mascot picture stay on your phone. We run no servers for the app and cannot see any of it.
 - There are no accounts, no ads, no analytics, no tracking and no third-party services, apart from Google Play's own billing library, which handles the optional one-time purchase.
 - The app does not send your information to us or to anyone else.
-- The only time the app contacts the internet is through Google Play's billing library for the optional purchase. It talks to Google Play, not to us. This is why the app lists the internet and network-status permissions.
+- The only time the app contacts the internet is through Google Play's billing library for the optional purchase. It talks to Google Play, not to us. This is why the app lists the internet and network-status permissions. The app also lists the vibration permission, used only for the optional milestone vibration.
+- The app can make your phone vibrate briefly when a milestone message appears. This uses Android’s vibration permission, which gives the app no access to your information. You can turn it off in the app.
 - The app is excluded from Android's backup.
 - You can erase your counts inside the app at any time, or remove everything by uninstalling.
 
@@ -37,12 +38,12 @@ The app stores the following on your phone, in its private storage. We cannot se
 - **Your daily reel counts**: a date and a number.
 - **Time spent on Reels**: how long the Reels screen was open each day. If you stop swiping for more than three minutes, the extra time is not counted.
 - **Troubleshooting information**: a few timestamps (such as when the service started, when Instagram was last seen, when the Reels screen was last recognised and when the last reel was counted). If the app cannot recognise the Reels screen, it may also keep a short list of the technical names of reel-related screen elements it noticed. This powers the Status and "Reel Counter Disappeared?" help in the Help tab.
-- **Settings and small bits of state**: for example whether milestone messages are on, and the date, count and wording of the last milestone message shown (so the same one is not repeated straight away).
+- **Settings and small bits of state**: for example whether milestone messages are on, whether vibration on milestones is on, and the date, count and wording of the last milestone message shown (so the same one is not repeated straight away), your chosen pill color.
 - **Your agreement** to the Accessibility notice.
 - **Whether the mascot unlock is active**: a simple yes or no, so the app does not have to wait for the store each time.
 - **A custom mascot picture, if you choose one**: the picture is copied into the app's private storage, made smaller, and any editing (such as removing the background) happens on your phone. The app can only read the single picture or file you pick in Android's photo picker, and the picture never leaves your phone.
 
-The messages the app shows (milestone banners on the floating counter, the short line under your time spent, and the streak messages on the Stats page) are chosen from text built into the app, based only on your counts, time and streaks. No information about you leaves your phone to produce them.
+The messages the app shows (milestone banners on the floating counter, the short line under your time spent, and the streak messages on the Stats page) are chosen from text built into the app, based only on your counts, time and streaks. No information about you leaves your phone to produce them. When a milestone message appears, the app can also vibrate your phone briefly. Whether it vibrates, and how many taps, depends only on your count. No information leaves your phone to do this.
 
 ## The optional mascot purchase (Google Play)
 
@@ -75,6 +76,7 @@ ScrollClock is excluded from Android's backup. If you reinstall the app or set u
 - Uninstall the app to remove all of its data from your phone.
 - Because we hold no personal data from the app itself, there is nothing for us to export or delete from it. If you have emailed us and want a copy of what you sent, or want it deleted, write to appsbyashtech@gmail.com. We will reply within 30 days. Depending on where you live, you may also have legal rights over your personal information, and we will honor them for any information we hold.
 - Your purchase record is held by Google Play. You can manage it through your Google account.
+- Turn off “Vibrate on milestones” (or “Milestone messages”) in the Stats tab under Settings.
 
 ## Security
 
