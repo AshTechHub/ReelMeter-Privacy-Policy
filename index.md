@@ -38,7 +38,7 @@ The app stores the following on your phone, in its private storage. We cannot se
 - **Your daily reel counts**: a date and a number.
 - **Time spent on Reels**: how long the Reels screen was open each day. If you stop swiping for more than three minutes, the extra time is not counted.
 - **Troubleshooting information**: a few timestamps (such as when the service started, when Instagram was last seen, when the Reels screen was last recognised and when the last reel was counted). If the app cannot recognise the Reels screen, it may also keep a short list of the technical names of reel-related screen elements it noticed. This powers the Status and "Reel Counter Disappeared?" help in the Help tab.
-- **Settings and small bits of state**: for example whether milestone messages are on, whether vibration on milestones is on, and the date, count and wording of the last milestone message shown (so the same one is not repeated straight away).
+- **Settings and small bits of state**: for example whether milestone messages are on, whether vibration on milestones is on, and the date, count and wording of the last milestone message shown (so the same one is not repeated straight away), your chosen pill color.
 - **Your agreement** to the Accessibility notice.
 - **Whether the mascot unlock is active**: a simple yes or no, so the app does not have to wait for the store each time.
 - **A custom mascot picture, if you choose one**: the picture is copied into the app's private storage, made smaller, and any editing (such as removing the background) happens on your phone. The app can only read the single picture or file you pick in Android's photo picker, and the picture never leaves your phone.
